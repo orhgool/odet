@@ -1,0 +1,25 @@
+/*!
+ * jQuery UI CSS Framework 1.10.4
+ * http://jqueryui.com
+ *
+ * Copyright 2014 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/category/theming/
+ */
+@import url("jquery.ui.core.0c53cd2e6d9e.css");
+
+@import url("jquery.ui.accordion.8060d55c4ef8.css");
+@import url("jquery.ui.autocomplete.36d6c5eadafc.css");
+@import url("jquery.ui.button.8435e706ebfb.css");
+@import url("jquery.ui.datepicker.162f5a406eab.css");
+@import url("jquery.ui.dialog.bc711a479c6e.css");
+@import url("jquery.ui.menu.63e8fce8f5de.css");
+@import url("jquery.ui.progressbar.f963c7714807.css");
+@import url("jquery.ui.resizable.4cb5da1a25e7.css");
+@import url("jquery.ui.selectable.5fbf25805e42.css");
+@import url("jquery.ui.slider.ac4d8d7f4ff9.css");
+@import url("jquery.ui.spinner.399ef65414f8.css");
+@import url("jquery.ui.tabs.2abe85ea997d.css");
+@import url("jquery.ui.tooltip.cae8894c4004.css");
